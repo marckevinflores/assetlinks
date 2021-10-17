@@ -1,0 +1,10 @@
+[
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.mkf.boh",
+        "sha256_cert_fingerprints": ["74:59:89:81:70:8A:2A:C6:CF:44:72:C7:1E:09:8E:25:D7:00:BB:F0:70:53:9C:E7:50:FF:DA:99:96:D2:94:A5"]
+      }
+    }
+  ]
